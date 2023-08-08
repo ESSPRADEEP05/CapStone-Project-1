@@ -631,7 +631,7 @@ h2{
 .four31 {
     height: 100%;
     width: 50%;
-    border: 2px solid black;
+    /* border: 2px solid black; */
     color: white;
     /* position: relative; */
     /* top:30%; */
@@ -644,7 +644,7 @@ h2{
 .four32 {
     height: 100%;
     width: 50%;
-    border: 2px solid black;
+    /* border: 2px solid black; */
     color: white;
     text-align: left;
     padding-top: 60px;
